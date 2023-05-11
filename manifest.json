@@ -1,5 +1,7 @@
 {
   "author": "igorlogius",
+  "homepage_url": "https://github.com/igorlogius/youtube-bookmark-cleanup",
+  "description": "Remove Duplicate Youtube Video Bookmarks from a folder",
   "background": {
     "scripts": ["background.js"]
   },
@@ -9,5 +11,5 @@
   "manifest_version": 2,
   "name": "Youtube Bookmark Cleanup",
   "permissions": ["notifications", "menus", "bookmarks"],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

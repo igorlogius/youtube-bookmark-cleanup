@@ -2,9 +2,10 @@ Remove Duplicate Youtube Video Bookmarks from a folder.
 
 <b>Usage:</b>
 
-Right click on a bookmark folder and in the context menu, click on "Youtube Bookmark Cleanup". 
-Only bookmarks which are direct children will be checked. Only the `vid=` URL parameter is used to determine if a url already exists.
-After one bookmark with a `vid` parameter if found, any other url with the same parameter will be removed.
+Right click on a bookmark folder and in the context menu, click on "Youtube
+Bookmark Cleanup". Only bookmarks which are direct children will be checked by
+comparing the vid=` URL parameters. After a bookmark with a `vid` parameter is
+found, any other bookmark with the same `vid` will be removed.
 
 <b>Notes:</b>
 <ol>
