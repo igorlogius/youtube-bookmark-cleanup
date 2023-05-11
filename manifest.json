@@ -1,0 +1,13 @@
+{
+  "author": "igorlogius",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Youtube Bookmark Cleanup",
+  "permissions": ["notifications", "menus", "bookmarks"],
+  "version": "1.0.0"
+}
