@@ -1,4 +1,4 @@
-Remove Duplicate Youtube Video Bookmarks from a folder.
+Remove Duplicate Youtube Video Bookmarks from a folder
 
 <b>Usage:</b>
 
